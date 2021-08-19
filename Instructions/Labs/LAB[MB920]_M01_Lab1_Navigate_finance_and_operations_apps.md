@@ -16,7 +16,7 @@ Now that you've become familiar with finance and operations apps, take some time
 
 ### Do Not close the Powershell. Dropdown the powershell window and continue the lab
 
-[!Note] Internet Explorer may automatically open in the desktop. If you have not already completed steps #1-6, please finish them before navigating back to Internet Explorer.
+>Note: Internet Explorer may automatically open in the desktop. If you have not already completed steps #1-6, please finish them before navigating back to Internet Explorer.
 
 1. Select the **AdminUserProvisioning** file on the desktop.
 
@@ -26,7 +26,7 @@ Now that you've become familiar with finance and operations apps, take some time
 
 1. Select **Ok** to continue.
 
-1. Open **Internet Explorer**.
+1. Open **Microsoft Ege**. If Microsoft Edge is not there.Navigate to the link given [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2069324&Channel=Stable&language=en)
 
 1. Browse to the given link: <https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
