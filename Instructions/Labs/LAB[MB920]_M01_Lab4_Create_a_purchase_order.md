@@ -42,7 +42,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Select **OK**.
 
-1. The order header has now been created. When you work with purchase order lines, only a summary of the header information is shown. If you need to view the rest of the information, select **Header**.
+1. The order header has now been created. When you work with purchase order lines, only a summary of the header information is shown. If you need to view the rest of the information, select **Lines**.
 
     ![Screen image displaying the location of the Header menu](./media/lp1-m3-purchase-order-header-option.png)
 
@@ -88,7 +88,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
     - **Net amount**: Calculated from other fields on the line, including quantity, unit price, discount, and discount percent. It is possible to change the Net amount, but then the Unit Price, Discount, and Discount percent fields will be blank, and when you post toward the line, the amount posted will be proportional to the net amount. Generally, the Net Amount field is only used for displaying the net amount of the line.
 
-1. Under the purchase order lines, at the bottom of the page, select **Line details**.
+1. Under the purchase order lines, at the bottom of the page, select **Header**.
 
 1. Select the **Delivery** tab.
 
