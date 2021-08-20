@@ -153,8 +153,7 @@ During this lab, you will explore the onboarding process for a new employee, inc
 
 1. In the Action Pane, select **+New**.
 
-1. On the **New journal** page, enter the following updates.
-
+1. On the **New journal** page, enter the following updates:
 
     | **Setting** | **Value** |
     | :--- | :---- |
