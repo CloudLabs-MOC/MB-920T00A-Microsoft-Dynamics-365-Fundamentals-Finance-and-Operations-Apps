@@ -24,6 +24,8 @@ Now that you've become familiar with finance and operations apps, take some time
 
 1. Enter the UserName provided under environment detail page and then select **Submit**.
 
+    ![](./media/fa2.png)
+
 1. Wait for the script to finish before continuing. This may take 5-10 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.
 
 1. Select **Ok** to continue.
@@ -58,13 +60,21 @@ Note: provide the Username and Password.
 
 1. The navigation pane is where you'll find collections for your **Favorites**, **Recent** items, **Workspaces**, and **Modules**.
 
+    ![](./media/fa4.png)
+
 1. In the navigation pane, select **Modules** > **System administration**.
+
+    ![](./media/fa3.png)
 
 1. Review the areas available in the System administration module.
 
 1. Under **Setup**, select **Client performance options**.
 
+    ![](./media/fa5.png)
+
 1. In the Client performance options pane, under **Feature callouts enabled**, select the toggle switch and set it to **Yes**.
+
+    ![](./media/fa6.png)
 
 1. Review the other available options, scroll to the bottom of the pane, and then select **OK**.
 
@@ -76,6 +86,8 @@ Note: provide the Username and Password.
 
 1. Select the **Preferences** tab.
 
+    ![](./media/fa7.png)
+
 1. Review the available preferences. Notice you can change the default company and initial page view you will see when you sign in.
 
 1. Select and review the **Account** and **Workflow** tabs.
@@ -85,6 +97,8 @@ Note: provide the Username and Password.
 1. On the Home page, in the top center of the page, select the **Search for a page** box.
 
 1. In the search box, search for **All vendors**.
+
+    ![](./media/fa8.png)
 
 1. You may need to wait the first time you search for a page. You will see a small spinning circle to the right of the search box while the search is processing.
 
