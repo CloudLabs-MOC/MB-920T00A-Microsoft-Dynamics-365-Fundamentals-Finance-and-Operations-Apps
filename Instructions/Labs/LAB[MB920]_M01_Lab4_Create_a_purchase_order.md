@@ -14,11 +14,15 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. On the Finance and Operations Home page, in the top right, verify you are working with the USMF company.
 
-1. If necessary, select the company, and from the menu, select **USMF**.
+1. If not select the company and from the menu, select **USMF**.
+
+    ![](./media/povs1.png)
 
 1. In the top left, select the **Expand the navigation pane** hamburger menu.
 
 1. Select **Modules** > **Procurement and sourcing** > **Purchase orders** > **All purchase orders**.
+
+    ![](./media/po1.png)
 
 1. On the All purchase orders page, in the top menu, select **+ New**.
 
@@ -42,6 +46,8 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Select **OK**.
 
+    ![](./media/po2.png)
+
 1. The order header has now been created. When you work with purchase order lines, only a summary of the header information is shown. If you need to view the rest of the information, select **Header**.
 
     ![Screen image displaying the location of the Header menu](./media/lp1-m3-purchase-order-header-option.png)
@@ -52,15 +58,21 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Under **DISPLAY**, select **Dimensions**.
 
+    ![](./media/po3.png)
+
 1. Products can be in variants that are differentiated by dimensions, such as color, size, or style. Products can also be set up to use storage dimensions, such as site and warehouse. There are also optional tracking dimensions, such as batch and serial numbers. To improve the efficiency of order entry, you can add the dimension fields that you commonly use directly to the order grid.
 
 1. In the Dimensions display pane, under **PRODUCT DIMENSIONS**, select the **Color** check box. 
+
+    ![](./media/po4.png)
 
 1. Optional: If you select the Save setup toggle switch, the dimensions you have chosen will also be shown on the order line grid the next time you open the purchase order page.
 
 1. Select **OK**. Click on save on the top left corner.
 
 1. Select the **Item number** cell menu, and then select **T0004**.
+
+    ![](./media/po5.png)
 
 1. Remember, you can also type in the filter box instead of scrolling through the list.
 
@@ -70,9 +82,13 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. Select the **Color** menu, review the available options, and then select one of the colors or color combinations.
 
+    ![](./media/po6.png)
+
 1. Site and Warehouse are typically populated with values from the order header, but it is possible to override the fields if some lines need to be delivered to different locations.
 
 1. In the **Quantity** box, enter **10**.
+
+    ![](./media/po7.png)
 
 1. The Quantity is automatically populated with the minimum order quantity for the product if this is set up, or with the value of 1.
 
@@ -88,9 +104,13 @@ It's more typical for purchase orders to be created automatically as result of m
 
     - **Net amount**: Calculated from other fields on the line, including quantity, unit price, discount, and discount percent. It is possible to change the Net amount, but then the Unit Price, Discount, and Discount percent fields will be blank, and when you post toward the line, the amount posted will be proportional to the net amount. Generally, the Net Amount field is only used for displaying the net amount of the line.
 
+    ![](./media/po8.png)
+
 1. Under the purchase order lines, at the bottom of the page, select **Line details**.
 
 1. Select the **Delivery** tab.
+
+    ![](./media/po9.png)
 
 1. A unique delivery date can be assigned to each order line. The date is inherited from the field on the purchase order header, but you can change this.
 
