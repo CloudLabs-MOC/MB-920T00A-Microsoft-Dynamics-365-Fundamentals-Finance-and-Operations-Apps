@@ -14,13 +14,19 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. On the Finance and Operations Home page, in the top right, verify you are working with the USMF company.
 
-1. If necessary, select the company and from the menu, select **USMF**.
+1. Make sure company name is set to **USMF**, if not select the company and from the menu, select **USMF**.
+
+    ![](./media/povs1.png)
 
 1. In the top left, select the **Expand the navigation pane** hamburger menu.
 
 1. In the navigation pane, select **Modules** > **Product information management,** and then under the **Products** category, select **Released products**.
 
+    ![](./media/povs2.png)
+
 1. On the Released product details page, on the top menu, select **+ New**.
+
+    ![](./media/povs3.png)
 
 1. In the New released product pane, in the **Product type** menu, verify **Item** is selected.
 
