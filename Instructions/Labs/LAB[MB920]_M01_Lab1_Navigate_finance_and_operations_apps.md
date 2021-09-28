@@ -18,7 +18,7 @@ Now that you've become familiar with finance and operations apps, take some time
 
   **Note**: Internet Explorer may automatically open in the desktop. If you have not already completed steps #1-6, please finish them before navigating back to Internet Explorer.
 
-1. Select the **AdminUserProvisioning** file on the desktop.
+1. Select and open the **AdminUserProvisioning** file on the desktop.
 
     ![](./media/fa1.png)
 
