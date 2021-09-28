@@ -39,7 +39,7 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
 1. Select your **My workspace** tile and then move it to another location on the Home page.
 
-    >[!Note] If you are unable to move the tile, refresh the page and the retry the previous steps to move the tile.
+    **Note**: If you are unable to move the tile, refresh the page and the retry the previous steps to move the tile.
 
 1. Close the toolbar.
 
@@ -53,7 +53,9 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
 1. When complete, select **Configure**.
 
-1. In the Add as tile pane, verify the tile name, and then select **OK**.
+    ![](./media/wf1.png)
+
+1. In the Add as tile pane, change the name as **Vendors**, and then select **OK**.
 
 1. In the left navigation pane, select the **Home** icon.
 
@@ -62,6 +64,8 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 1. On the My workspace page, verify the newly added Vendors tile is shown.
 
 1. Select the **Vendors** tile.
+
+    ![](./media/wf2.png)
 
 1. On the All vendors page, in the **Filter** box, enter **Contoso**.
 
@@ -81,8 +85,7 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
 1. Under **Group**, select the **begins with** menu and review the comparison operators. Select **is exactly**.
 
-1. Select the menu below **is exactly,** and then select **Other Vendors**.  
-    Alternatively, you could enter a value in the menu field.
+1. Select the menu below **is exactly,** and then select **Other Vendors**. Alternatively, you could enter a value in the menu field.
 
 1. Select **Apply**, and then review the results. Notice the filter icon in the Group column header.
 
