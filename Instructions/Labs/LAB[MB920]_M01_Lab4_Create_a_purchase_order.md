@@ -46,7 +46,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
     ![Screen image displaying the location of the Header menu](./media/lp1-m3-purchase-order-header-option.png)
 
-1. Under **Purchase order lines**, in the menu, select **Purchase order line**.
+1. Switch back to Lines then under **Purchase order lines**, in the menu, select **Purchase order line**.
 
     ![Screen image showing the location of the Purchase order line menu option](./media/lp1-m3-purchase-order-purchase-order-line-menu.png)
 

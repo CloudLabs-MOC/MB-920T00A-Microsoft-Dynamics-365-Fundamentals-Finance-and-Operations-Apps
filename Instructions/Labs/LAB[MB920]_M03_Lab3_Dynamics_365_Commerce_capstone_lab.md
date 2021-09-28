@@ -57,7 +57,7 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
     | Setting| Value|
     | :--- | :--- |
     | BusinessUnit| 004|
-    | RetailChannel| 000210|
+    | RetailChannel| 000211|
 
 1. Select the **Screen layout** FastTab.
 

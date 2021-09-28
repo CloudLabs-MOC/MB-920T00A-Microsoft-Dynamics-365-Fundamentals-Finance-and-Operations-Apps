@@ -124,7 +124,7 @@ Many built-in workspaces are available to you when you first sign in to Finance 
 
     ![Screen image of Inquiry - Vendors advanced filter](./media/m1-common-inquire-vendor-advanced-filter.png)
 
-1. In the Vendor group list, select **30 Other Vendors**.
+1. In the Vendor group list, select **40 Other Vendors**.
 
 1. To save the new query, under **Select query**, select the **Modify** menu, and then select **Save as**.
 

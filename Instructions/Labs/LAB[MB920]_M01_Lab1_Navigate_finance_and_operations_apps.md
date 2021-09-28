@@ -20,6 +20,8 @@ Now that you've become familiar with finance and operations apps, take some time
 
 1. Select the **AdminUserProvisioning** file on the desktop.
 
+    ![](./media/fa1.png)
+
 1. Enter the UserName provided under environment detail page and then select **Submit**.
 
 1. Wait for the script to finish before continuing. This may take 5-10 minutes. Once the script is completed a pop-up box will display to confirm the Admin user has been successfully updated.

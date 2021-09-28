@@ -249,7 +249,7 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. In **Item number** column, select the menu and then select **T0005**.
 
-1. In the **Variant number** column, select the menu and then one of the colors.
+1. In the **Color** column, select the menu and then one of the colors.
 
 1. In the **Quantity** box, enter **15**.
 

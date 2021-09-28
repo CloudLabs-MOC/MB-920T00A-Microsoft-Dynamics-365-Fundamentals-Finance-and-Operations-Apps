@@ -76,7 +76,7 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 1. On the Price groups page, select the **Price group** menu.
 
-1. Review the available price groups, select **Boston price group**, and then select **Save**.
+1. Review the available price groups, select any one, and then select **Save**.
 
 1. In the top right of the Price groups page, select the **Close** icon.
 
