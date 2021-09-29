@@ -24,6 +24,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Using the navigation pane, select **Modules** > **Product information management** > **Products** > **Released products**.
 
+    ![](./media/scm1.png)
+
 1. On the Released product details page, in the Action Pane, select **+ New**.
 
 1. In the **New released product** pane, in the **Product type** menu, verify **Item** is selected.
@@ -59,11 +61,15 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
     | Sales unit| ea|
     | BOM unit| ea|
 
+    ![](./media/scm2.png)
+
 1. Select **OK**. Select save on the top left corner.
 
 1. To ensure the product is finalized, in the Action Pane, select **Product** and then, under **Maintain**, select **Validate**.
 
 1. Verify you are presented with the information banner confirming that all required field values were validated.
+
+    ![](./media/scm3.png)
 
 1. Close all pages and return to the Home page.
 
@@ -72,6 +78,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 ### Create a warehouse
 
 1. Using the navigation pane, select **Modules** > **Inventory management** > **Inventory breakdown** > **Warehouses**.
+
+    ![](./media/scm4.png)
 
 1. On the Warehouses page, in the Action Pane, select **New**.
 
@@ -93,11 +101,17 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. In the Action Pane, select **Warehouse**.
 
+    ![](./media/scm5.png)
+
 1. Under **Maintain**, select **Location Wizard**.
+
+    ![](./media/scm6.png)
 
 1. On the Welcome page, review the information and then, in the lower right corner, select **Next**.
 
 1. Clear the **Inbound docks** and **Bulk locations** check boxes.
+
+    ![](./media/scm7.png)
 
 1. Select **Next** and review the information.
 
@@ -109,11 +123,15 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Using the navigation pane, select **Modules** > **Product information management** > **Products** > **Released products**.
 
+    ![](./media/scm8.png)
+
 1. On the Released products details page, search for the item number **GTL201**.
 
 1. To the left of **GTL201**, select the **Select or unselect row** check box.
 
 1. In the Action Pane, select **Sell** and then, under **TRADE AGREEMENTS**, select **Create trade agreements**.
+
+    ![](./media/scm9.png)
 
 1. In the Action Pane, select **+New**.
 
@@ -121,11 +139,15 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. In the Action Pane, select **Lines**.
 
+    ![](./media/scm10.png)
+
 1. On the Journal lines, trade agreement page, in the **Item relation** column, select the menu and then select **GTL201**.
 
 1. This is the item number of the product you created.
 
 1. In the **Warehouse** column, select the menu and then select **150**.
+
+    ![](./media/scm12.png)
 
 1. You may have to scroll right to see the column.
 
@@ -134,6 +156,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 1. In the Details section, in the **From date** box, enter the first date of the current year.
 
 1. In the Action Pane, select **Validate** > **Validate all lines.**
+
+    ![](./media/scm11.png)
 
 1. In **the Price/discount Journal posting** pane, select **OK**.
 
@@ -147,7 +171,11 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Close the page.
 
+    ![](./media/scm13.png)
+
 1. On the Released product details page, in the Action Pane under **Sell** > **TRADE AGREEMENTS,** select **View trade agreements**.
+
+    ![](./media/scm14.png)
 
 1. The trade agreement should be posted. Review the line to observe the price information.
 
@@ -158,6 +186,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 ### Create a production order for a product
 
 1. Using the navigation pane, select **Modules** > **Production control** > **Production orders** > **All production orders**.
+
+    ![](./media/scm15.png)
 
 1. In the Action Pane, select **New production order**.
 
@@ -171,6 +201,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Select **Create**.
 
+    ![](./media/scm16.png)
+
 1. Close all pages and return to the Home page.
 
 ## Exercise 4: Explore Inventory Management
@@ -179,13 +211,19 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Using the navigation pane, select **Modules** > **Inventory management** > **Journal entries** > **Item counting > Counting**.
 
+    ![](./media/scm17.png)
+
 1. In the Action Pane, select **+New**.
 
 1. In the **Create inventory journal** pane under **Counting by**, select the **Warehouse** toggle switch to set it to **Yes**.
 
 1. Select **OK**.
 
+    ![](./media/scm18.png)
+
 1. On the Inventory counting journal page, in the **Journal header details** FastTab, under **Journal lines** on the toolbar, select **+New**.
+
+    ![](./media/scm19.png)
 
 1. In the **Item number** column, select the menu and then select **GTL201**.
 
@@ -194,6 +232,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 1. In the **Counted** box, enter **100.00**.
 
 1. This will specify the number of items stored in the warehouse for this product.
+
+    ![](./media/scm20.png)
 
 1. In the Action Pane, select **Validate**.
 
