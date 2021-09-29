@@ -14,7 +14,7 @@ It's more typical for purchase orders to be created automatically as result of m
 
 1. On the Finance and Operations Home page, in the top right, verify you are working with the USMF company.
 
-1. If not select the company and from the menu, select **USMF**.
+1. If necessary, select the company, and from the menu, select **USMF**.
 
     ![](./media/povs1.png)
 

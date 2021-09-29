@@ -23,6 +23,8 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 
 1. If necessary, select the company, and from the menu, select **USMF**.
 
+    ![](./media/povs1.png)
+
 1. In the left navigation pane, select **Modules** > **Inventory management** > **Setup** > **Inventory breakdown** > **Warehouses**.
 
     ![Screen image displaying Warehouses module navigation](./media/lp1-m3-warehouses-module-navigation.png)
