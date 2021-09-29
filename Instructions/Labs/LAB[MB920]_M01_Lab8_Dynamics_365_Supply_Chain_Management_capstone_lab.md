@@ -249,13 +249,19 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. Using the navigation pane, select **Modules** > **Inventory management** > **Inquiries and reports** > **On-hand list**.
 
+    ![](./media/scm21.png)
+
 1. In the Action Pane, select **Dimensions**.
 
 1. On the **Dimension display** pane, under **STORAGE DIMENSIONS**, select the **Site** and **Warehouse** check boxes then select **OK**.
 
+    ![](./media/scm22.png)
+
 1. In the **Filters** pane, select **Apply**.
 
 1. Locate and review the on-hand inventory for **GTL201**.
+
+    ![](./media/scm23.png)
 
 1. Close all pages and return to the Home page.
 
@@ -264,6 +270,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 ### Create a purchase order with a product
 
 1. Using the navigation pane, select **Modules** > **Procurement and sourcing** > **Purchase orders** > **All purchase orders**.
+
+    ![](./media/scm24.png)
 
 1. On the All purchase orders page, in the Action Pane, select **+ New**.
 
@@ -281,9 +289,13 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. In the **Create purchase order** pane, select **OK**.
 
+    ![](./media/scm25.png)
+
 1. On the toolbar, select **Purchase order line**.
 
 1. Under **DISPLAY**, select **Dimensions**.
+
+    ![](./media/scm26.png)
 
 1. In the **Dimensions display** pane, under **PRODUCT DIMENSIONS**, select the **Color** check box.
 
@@ -295,6 +307,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. In the **Quantity** box, enter **15**.
 
+    ![](./media/scm27.png)
+
 1. Under the **Purchase order lines**, at the bottom of the page, select the **Line details** FastTab.
 
 1. This tab may already be expanded.
@@ -305,6 +319,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 1. Write down your purchase order number. You will need this later.
 
 1. In the Action Pane, select **Save**.
+
+    ![](./media/scm28.png)
 
 1. Close the Purchase order line page.
 
