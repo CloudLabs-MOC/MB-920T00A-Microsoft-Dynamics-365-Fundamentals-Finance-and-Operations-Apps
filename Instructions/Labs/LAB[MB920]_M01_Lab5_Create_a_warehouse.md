@@ -29,7 +29,7 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 
     ![Screen image displaying Warehouses module navigation](./media/lp1-m3-warehouses-module-navigation.png)
 
-1. On the Warehouses page, in the top menu, select **New**.
+1. On the Warehouses page, in the top menu, select **+New**.
 
 1. In the **Warehouse** field, enter **101**.
 
@@ -48,6 +48,8 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 
 1. In the **Format** field, for the shelf, enter **-##**. Click on save.
 
+    ![](./media/cw1.png)
+
 1. On the top menu, select **Warehouse**.
 
     ![Screen image displaying the Warehouse menu option highlighted](./media/lp1-m3-warehouses-menu-option.png)
@@ -57,6 +59,8 @@ To use warehouse management in Supply Chain Management, you must create a wareho
 1. On the Welcome page, review the information and then, in the lower right corner, select **Next**.
 
 1. Clear the **Outbound docks** and **Bulk locations** checkboxes.
+
+    ![](./media/cw2.png)
 
 1. Select **Next** and review the information.
 
