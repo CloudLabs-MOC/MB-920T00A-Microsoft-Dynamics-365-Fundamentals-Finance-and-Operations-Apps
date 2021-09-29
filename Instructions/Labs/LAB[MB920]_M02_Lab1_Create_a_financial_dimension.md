@@ -18,7 +18,11 @@ You must create a custom financial dimension that will be used by your company.
 
 1. If necessary, select the company, and from the menu, select **USMF**.
 
+    ![](./media/povs1.png)
+
 1. In the left navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Dimensions** > **Financial dimensions**.
+
+    ![](./media/fd1.png)
 
 1. On the top menu, select **+ New**.
 
@@ -38,4 +42,4 @@ You must create a custom financial dimension that will be used by your company.
 
     ![Screenshot displaying warning information banner referencing the maintenance mode requirement for activating a new dimension.](./media/lp2-m3-activation-warning-banner.png)
 
-    >[!NOTE] Maintenance mode can be turned on and off directly through Lifecycle Services (LCS) on your sandbox and production environments. More information about managing lifecycle services can be found at [https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/maintenanceoperationsguide-newinfrastructure](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/maintenanceoperationsguide-newinfrastructure).
+    **NOTE**: Maintenance mode can be turned on and off directly through Lifecycle Services (LCS) on your sandbox and production environments. More information about managing lifecycle services can be found at [https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/maintenanceoperationsguide-newinfrastructure](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/maintenanceoperationsguide-newinfrastructure).
