@@ -18,7 +18,11 @@ You must create a new production order for your company.
 
 1. If necessary, select the company and from the menu, select **USMF**.
 
+    ![](./media/povs1.png)
+
 1. In the left navigation pane, select **Modules** > **Production control** > **Production orders** > **All production orders**.
+
+    ![](./media/cpo1.png)
 
 1. On the top menu, select **New production order**.
 
