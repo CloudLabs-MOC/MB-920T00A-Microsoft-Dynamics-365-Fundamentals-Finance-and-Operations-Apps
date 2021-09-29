@@ -20,6 +20,8 @@ In Contoso Entertainment System USA (USMF), you need to create a new item for a 
 
 1. If not, select the currently listed company and then change the company to **USMF**.
 
+    ![](./media/povs1.png)
+
 1. Using the navigation pane, select **Modules** > **Product information management** > **Products** > **Released products**.
 
 1. On the Released product details page, in the Action Pane, select **+ New**.
