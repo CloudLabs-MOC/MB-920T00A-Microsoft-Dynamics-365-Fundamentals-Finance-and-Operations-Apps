@@ -16,15 +16,27 @@ Maintenance orders placed in the system describe the maintenance or repair that 
 
 2. If necessary, select the company and from the menu, select **USMF**.
 
+    ![](./media/povs1.png)
+
 3. In the left navigation pane, select **Modules** **&gt; Asset Management &gt; Setup &gt; Maintenance Request &gt; Lifecycle states.**
+
+    ![](./media/pwo1.png)
 
 4. Select InProgress and click on the **Edit** button in the action pane.
 
+    ![](./media/pwo2.png)
+
 5. Under the **General** tab, change the **Create Work Order** value to Yes.
+
+    ![](./media/pwo3.png)
 
 6. In the left navigation pane, select **Modules** **&gt; Asset Management &gt; Workspaces &gt; Maintenance request management.**
 
+    ![](./media/pwo4.png)
+
 7. Click on **Create maintenance request.**
+
+    ![](./media/pwo5.png)
 
 8. Enter following values in the fields of the dialog and click on the **OK** button.
 
@@ -42,7 +54,11 @@ Maintenance orders placed in the system describe the maintenance or repair that 
 
 	- Fault area: Electrical 
 
+    ![](./media/pwo6.png)
+
 9. Close the **Maintenance request** form and go back to the **Maintenance request management** workspace.
+
+    ![](./media/pwo7.png)
 
 10. Refresh the page by pressing the **refresh** icon at the top-right corner of the screen.
 
@@ -52,6 +68,8 @@ Maintenance orders placed in the system describe the maintenance or repair that 
 
 12. Select the newly created the Maintenance request and click on the **Update maintenance request state** button. 
 
+    ![](./media/pwo8.png)
+
 13. In the dialog select the checkbox next to InProgress and click on **OK**
 
 ![Screenshot of line item to be selected](./media/lab-create-a-maintenance-request-02.png) 
@@ -59,9 +77,13 @@ Maintenance orders placed in the system describe the maintenance or repair that 
 
 14. Select the newly created the Maintenance request and click on the **Create work order** button. 
 
+    ![](./media/pwo9.png)
+
 15. Enter following values in the fields of the dialog and click on the **OK** button.
 
 	- Maintenance job type: Inspection
+
+    ![](./media/pwo10.png)
 
 16. A new work order will be created, and the work order will be updated in the selected Maintenance request record.
 
