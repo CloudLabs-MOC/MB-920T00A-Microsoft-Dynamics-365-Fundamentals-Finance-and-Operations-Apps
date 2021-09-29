@@ -16,6 +16,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. Using the navigation pane, select **Modules** > **Organization administration** > **Organizations** > **Legal entities**.
 
+    ![](./media/fc1.png)
+
 1. In the Action Pane, select **+New** to create a new legal entity.
 
 1. In the **New entity** pane, create a new entity using the following information and then select **OK**:
@@ -61,6 +63,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. Using the navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Accounts** > **Main accounts**.
 
+    ![](./media/fc2.png)
+
 1. In the Action Pane, select **+New** to create a new revenue account.
 
 1. On the Main accounts page, enter the following updates:
@@ -77,6 +81,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. Using the navigation pane, select **Modules** > **General ledger** > **Chart of accounts** > **Dimensions** > **Financial dimensions**.
 
+    ![](./media/fc3.png)
+
 1. In the navigation list, select **ServiceLine**.  
     You may also use the **Filter** box to search for **ServiceLine**.
 
@@ -91,6 +97,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 ### Use an account and dimension value in a general journal
 
 1. Using the navigation pane, select **Modules** > **General ledger** > **Journal entries** > **General journals**.
+
+    ![](./media/fc4.png)
 
 1. In the Action Pane, select **+New**.
 
@@ -138,6 +146,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. Using the navigation pane, select **Modules** > **General ledger** > **Inquiries and reports** > **Trial balance**.
 
+    ![](./media/fc5.png)
+
 1. On the Trial balance page, select **Calculate balances**.
 
 1. The **Calculate balances** button is located under the **DATA TO INCLUDE** settings.
@@ -157,6 +167,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 ### Create a vendor
 
 1. Using the navigation pane, select **Modules** > **Accounts Payable** > **Vendors** > **All vendors**.
+
+    ![](./media/fc6.png)
 
 1. In the Action Pane, select **+New** to create a vendor.
 
@@ -246,6 +258,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. Using the navigation pane, select **Modules** > **Accounts payable** > **Payments** > **Vendor payment journal**.
 
+    ![](./media/fc7.png)
+
 1. In the Action Pane, select **+New**.
 
 1. On the Vendor payment journal page, in first row, in the **Name** column, select the menu and then select **VendPay**.
@@ -271,7 +285,7 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. In the **Payment by check** pane, review the information and then select **OK**.
 
-    >[!ALERT] You will see an error stating **Unable to find printer with path**. This should be ignored. No printer is installed in the lab.
+    **ALERT**: You will see an error stating **Unable to find printer with path**. This should be ignored. No printer is installed in the lab.
 
 1. Scroll right and in the **Payment status** column, verify **Sent** is displayed.
 
@@ -284,6 +298,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 ### Create a customer
 
 1. Using the navigation pane, select **Modules** > **Accounts receivables** > **Customers** > **All customers**.
+
+    ![](./media/fc8.png)
 
 1. In the Action Pane, select **+New** to create a customer.
 
@@ -340,6 +356,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 
 1. Using the navigation pane, select **Modules** > **Credit and collections** > **Inquiries and reports** > **Customers** > **Customer aging report**.
 
+    ![](./media/fc9.png)
+
 1. In the **Customer aging report** pane, enter the following updates and then select **OK**:
 
     | **Setting**| **Value**|
@@ -356,6 +374,8 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 ### Apply customer payment for the free text invoice
 
 1. Using the navigation pane, select **Modules** > **Accounts receivables** > **Payments** > **Customer payment journal**.
+
+    ![](./media/fc10.png)
 
 1. In the Action Pane, select **+New**.
 
