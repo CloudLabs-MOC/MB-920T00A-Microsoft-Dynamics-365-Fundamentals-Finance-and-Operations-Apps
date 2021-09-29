@@ -386,7 +386,7 @@ During this lab, you will explore the core capabilities of Microsoft Dynamics 36
 1. In the **Customer** box, enter **US-901**.  
     Wait for the data to load and then, in the **Mark** column, select the check box.
 
-1. Above the grid, in the **Amount** box, enter **1597.50**.The amount shown in the **Remaining amount** box should automatically change from **1,597.50** to **0**.  
+1. Above the grid, in the **Amount** box, enter **1597.50**.The amount shown in the **Remaining amount** box should automatically change from **1,597.50** to **0**.  
     You may need to select an empty space for the value to calculate.
 
 1. In the **Payment reference** box, enter **Check# 123**.
