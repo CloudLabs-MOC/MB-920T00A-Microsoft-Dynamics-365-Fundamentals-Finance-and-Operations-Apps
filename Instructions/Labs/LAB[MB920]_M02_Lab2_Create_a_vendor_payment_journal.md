@@ -24,7 +24,11 @@ Create a new vendor payment journal entry and payment proposal.
 
 1. If necessary, select the company and from the menu, select **USMF**.
 
+    ![](./media/povs1.png)
+
 1. In the left navigation pane, select **Modules** > **Accounts payable** > **Payments** > **Vendor payment journal**.
+
+    ![](./media/fd2.png)
 
 1. On the top menu, select **+ New**.
 
@@ -43,7 +47,7 @@ Create a new vendor payment journal entry and payment proposal.
 
 1. In the **From date** and **To date**, delete any existing value. For this exercise, these date ranges will be left blank.
 
-    >[!NOTE] A minimum payment date may be used as the payment date. The minimum payment date will be the earliest date used when creating payments. For example, if an invoice has a due date after the minimum payment date, the due date will become the payment date instead of the minimum payment date to pay the invoice on the latest possible date.
+    **Note**: A minimum payment date may be used as the payment date. The minimum payment date will be the earliest date used when creating payments. For example, if an invoice has a due date after the minimum payment date, the due date will become the payment date instead of the minimum payment date to pay the invoice on the latest possible date.
 
 1. Expand **Records to include** and then review the options.  
     The filter is often used to restrict the invoices selected for payment by vendor group or method of payment. For example, you may add a filter to only pay invoices by check in this pay run.
