@@ -195,7 +195,7 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Pricing and discounts** > **All discounts**.
 
-
+    ![](./media/cc20.png)
 
 1. In the Action Pane, select **New** > **Discount**.
 
@@ -209,11 +209,15 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. In the **Expiration date** box, enter a date one week from the current date.
 
+    ![](./media/cc21.png)
+
 1. On the **Lines** FastTab, on the toolbar, select **+ Add**.
 
 1. Under the **Category** column, select the menu, select **Team Sports**, and then select **OK**.
 
 1. In the Action Pane, select **Save**.
+
+    ![](./media/cc22.png)
 
 1. In the Action Pane, select **Price groups**.
 
@@ -221,20 +225,30 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. In the Action Pane, select **Save**.
 
+    ![](./media/cc23.png)
+
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Pricing and discounts** > **All discounts**.
 
-1. In the navigation list, select **ST100101**.
+    ![](./media/cc20.png)
+
+1. In the navigation list, select **ST100101**. Use serach option if you can't find it in the list
 
 1. On the **General** FastTab, select the **Status** menu and then select **Enabled**.
 
 1. In the Action Pane, select **Save**.
 
+    ![](./media/cc24.png)
+
 1. Close the form.
 
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Retail and Commerce IT** > **Distribution schedule**.
 
+    ![](./media/cc18.png)
+
 1. In the navigation list, select **1020 (Products)**.
 
 1. In the Action Pane, select **Run now**.
+
+    ![](./media/cc25.png)
 
 1. In the **Incremental sync with schedule '1020'** pane, review the information and then select **OK**.
