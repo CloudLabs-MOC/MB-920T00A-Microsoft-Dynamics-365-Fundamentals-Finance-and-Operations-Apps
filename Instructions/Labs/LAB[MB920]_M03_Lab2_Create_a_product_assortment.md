@@ -14,7 +14,9 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. On the Finance and Operations page, in the top left, select the **Expand the navigation pane** hamburger menu.
 
-1. In the navigation pane, select **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
+1. In the navigation pane, select **Modules** > **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
+
+    ![](./media/pa1.png)
 
 1. Wait for the page to load.
 
@@ -34,6 +36,8 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. On the Commerce channels menu, select **+ Add line**.
 
+    ![](./media/pa3.png)
+
 1. In Choose organization nodes, select the **Organization hierarchy** menu, and then select **Retail Stores by Type (Fabrikam)**.
 
 1. In the AVAILABLE ORGANIZATION NODES list, select Online, and then select the Add ![Right-arrow icon](./media/d365-fo-add-org-node-icon.png) icon to add it to the **SELECTED ORGANIZATION NODES**.  
@@ -41,7 +45,11 @@ You need to create an assortment of related products that are assigned to a spec
 
 1. Add the **Mall** parent node, and then select **OK**.
 
+    ![](./media/pa2.png)
+
 1. Verify the two nodes have been added to the Commerce channels.
+
+    ![](./media/pa4.png)
 
 1. Expand **Products**.
 
@@ -66,6 +74,8 @@ You need to create an assortment of related products that are assigned to a spec
 1. On the top menu, select **Save**.
 
 1. On the top menu, select **Publish**.
+
+    ![](./media/pa5.png)
 
 1. Review the information in the dialog box, and then select **Yes**.
 
