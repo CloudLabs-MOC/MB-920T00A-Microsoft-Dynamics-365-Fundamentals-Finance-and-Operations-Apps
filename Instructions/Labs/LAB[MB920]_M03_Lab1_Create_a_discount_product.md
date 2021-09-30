@@ -16,17 +16,19 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 1. In the navigation pane, select **Workspaces** > **Pricing and discount management**.
 
-1. On the Pricing and discount management page, review the currently displayed **Active discounts**.
+    ![](./media/dp1.png)
 
 1. On the menu, select **New**, review the available options, and then select **Discount**.
 
-1. On the Discounts page, in the **Name** box, enter a name for your discount. For example, New Year 20%.
+    ![](./media/dp2.png)
 
-1. In the General tab, verify the Status is set to **Disabled**.
+1. On the Discounts page, in the **Name** box, enter a name for your discount. For example, **New Year 20%**.
 
-1. The discount can only be edited when it is set to disabled.
+1. In the General tab, verify the Status is set to **Disabled**. The discount can only be edited when it is set to disabled.
 
 1. Select the **Discount concurrency mode** menu, review the available options, and then select **Best price**.
+
+    ![](./media/dp3.png)
 
     >[!NOTE] When choosing between the concurrency mode options, keep in mind:
     >
@@ -62,6 +64,8 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 1. Be sure to set the expiration date in the future, otherwise the discount will not be shown in the Active discounts list.
 
+    ![](./media/dp4.png)
+
 1. Expand **Lines**.
 
 1. On the menu, select **+ Add.**
@@ -72,7 +76,11 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 1. Expand **Line details** and then, in the **Description** box, enter a description for the product lines. For example, All products in the Fashion category will be included in the discount.
 
+    ![](./media/dp5.png)
+
 1. At the top of the page, on the menu, select **Price groups**.
+
+    ![](./media/dp6.png)
 
 1. On the Price groups page, select the **Price group** menu.
 
@@ -80,12 +88,18 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 1. In the top right of the Price groups page, select the **Close** icon.
 
+    ![](./media/dp7.png)
+
 1. On the Discounts page, in the General tab, select the **Status** menu, and then select **Enabled**.
 
 1. Notice discount settings can no longer be edited.
 
 1. Save your changes, and then close the Discount page.
 
+    ![](./media/dp8.png)
+
 1. On the Pricing and discount management page, review the Active discounts tab, and verify your newly added discount is shown at the bottom of the list.
 
 1. If necessary, in the top right, select the **Refresh** icon to refresh the discounts list.
+
+    ![](./media/dp9.png)
