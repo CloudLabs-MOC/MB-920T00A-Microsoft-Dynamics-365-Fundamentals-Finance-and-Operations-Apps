@@ -20,7 +20,11 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. If not, select the currently listed company and then enter **USRT**.
 
+    ![](./media/cc1.png)
+
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Channels** > **Stores** > **All Stores**.
+
+    ![](./media/cc2.png)
 
 1. In the Action Pane, select **+New** to create a new store.
 
@@ -45,6 +49,8 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. In the Action Pane, select **Save**.
 
+    ![](./media/cc3.png)
+
 1. Select the **Statement/closing** FastTab and then enter the following updates:
 
     | Setting| Value|
@@ -52,12 +58,16 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
     | Statement amount calculation| Last|
     | Maximum Difference > Posting| 100.00|
 
+    ![](./media/cc4.png)
+
 1. Select the **Financial dimensions** FastTab and then enter the following updates:
 
     | Setting| Value|
     | :--- | :--- |
     | BusinessUnit| 004|
-    | RetailChannel| 000211|
+    | RetailChannel| 000210|
+
+    ![](./media/cc5.png)
 
 1. Select the **Screen layout** FastTab.
 
@@ -65,7 +75,11 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. In the Action Pane, select **Save**.
 
+    ![](./media/cc6.png)
+
 1. In the Action Pane, select **Set-up** and then, in the **COPY** tab, select **Copy all**.
+
+    ![](./media/cc8.png)
 
 1. In the **Copy all** pane, select the **From store** menu and then select **ANNAPOL**.
 
@@ -73,15 +87,21 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. Select **OK**.
 
+    ![](./media/cc7.png)
+
 1. Verify the success message is displayed and then close the page.
 
 ### Add a group of products to an assortment and publish
 
 1. Using the navigation pane, select **Modules** > **Organization administration** > **Organizations** > **Organization hierarchies**.
 
+    ![](./media/cc9.png)
+
 1. In the navigation list, select **Retail Stores by Region**.
 
 1. In the Action Pane, select **View**.
+
+    ![](./media/cc10.png)
 
 1. On the Hierarchy designer page, in the Action Pane, select **Edit**.
 
@@ -89,7 +109,11 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. On the Hierarchy designer page, select **Insert** > **Retail channel**.
 
+    ![](./media/cc12.png)
+
 1. In the **Retail channel** pane, select **Seattle Flagship Store** and then select **OK**.
+
+    ![](./media/cc11.png)
 
 1. In the Action Pane, select **Save**.
 
@@ -101,6 +125,8 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. In the **Describe changes** box, enter **Addition of Seattle Flagship Store** and then select **Publish**.
 
+    ![](./media/cc13.png)
+
 1. In the dialog box, review the information and then select **Close**.
 
 1. In the Action Pane, select **Save**.
@@ -110,6 +136,8 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 1. Close the page.
 
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Catalogs and assortments** > **Assortments**.
+
+    ![](./media/cc14.png)
 
 1. On the Assortments page, select **AW-Outlet**.
 
@@ -121,11 +149,15 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. On the toolbar, select **+Add line**.
 
+    ![](./media/cc15.png)
+
 1. In the **Choose organization nodes** pane, select the **Organization hierarchy** menu and then select **Retail Stores by Region**.
 
 1. Under **AVAILABLE ORGANIZATION NODES**, select **Seattle Flagship Store** and then select the **Add** right arrow icon to add it to **SELECTED ORGANIZATION NODES**.
 
 1. Select **OK**.
+
+    ![](./media/cc16.png)
 
 1. In the Action Pane, select **Publish**.
 
@@ -141,21 +173,29 @@ During this lab, you will explore the basics of Commerce headquarter setup. The 
 
 1. Select the **Category** menu, select **Team Sports**, and then select **OK**.
 
-1. In the Action Pane, select **Publish**.  
+    ![](./media/cc17.png)
+
+1. In the Action Pane, select **Publish**. In the dialog box, review the information and then, select **Yes**.
 
 ### Run the retail scheduler job for products
 
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Retail and Commerce IT** > **Distribution schedule**.
 
+    ![](./media/cc18.png)
+
 1. In the navigation list, select **1040 (Products)**.
 
 1. In the Action Pane, select **Run now**.
+
+    ![](./media/cc19.png)
 
 1. In the **Incremental sync with schedule '1040'** pane, review the information and then select **OK**.
 
 ### Create a new product discount
 
 1. Using the navigation pane, select **Modules** > **Retail and Commerce** > **Pricing and discounts** > **All discounts**.
+
+
 
 1. In the Action Pane, select **New** > **Discount**.
 
