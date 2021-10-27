@@ -108,11 +108,11 @@ Note: provide the Username and Password.
 
 1. Highlight one of the vendors from the list and, on the right, select the **Related information** menu, and review the additional information that is provided.
 
-1. In the vendor list, select **Ade Supply Company**.
+1. In the vendor list, select **Acme Office Supplies**.
 
 1. Select the **Group** menu, and then select the **Vendor group** column title.
 
-    ![A screenshot of the Vendor group column title for Northwind Traders.](./media/m1-common-all-vendor-group-menu-new.png)
+    ![A screenshot of the Vendor group column title for Acme Office Supplies.](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. Many menus have sorting and filtering available. Use the filters to quickly locate the field content you are looking for.
 
